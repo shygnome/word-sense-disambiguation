@@ -424,3 +424,7 @@ dmypy.json
 
 # Dataset Exclusion
 dataset/**
+upload/**
+
+# LaTeX Template Exclusion
+*/template/*
